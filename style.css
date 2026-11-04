@@ -1,5 +1,4 @@
-﻿
-/* PORTFOLIO V5 - TRAN VIET ANH
+/* PORTFOLIO V5 - Ha Vu Manh
    Nang cap tu CSS cu theo yeu cau Lab 5
 */
 *,
@@ -200,7 +199,6 @@ textarea:focus-visible {
   transform: translateY(-0.25rem);
   box-shadow: 0 0.375rem 1rem rgba(0, 0, 0, 0.12);
 }
-
 .card a {
   overflow-wrap: anywhere;
 }
